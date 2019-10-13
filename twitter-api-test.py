@@ -1,10 +1,10 @@
 import twitter
 
 api = twitter.Api(
-    consumer_key='3K6rpyPp7uqbOdKsprC3KJJKR',
-    consumer_secret='kSmjcUuYWjFfvyy7MpVXUUCfnyKo2ioQWqLbmUfLZxEr534RaD',
-    access_token_key='1182561318823284737-hCNzDdhMA8PzCnlpFky7fl4uNn4ZHD',
-    access_token_secret='ZlF2dyk4KHaxnMZKSK0b1AlgRrJmaJRPahKsNjrAI0se7')
+    consumer_key='XXXXXXXXXXXXXXXXXXXXX',
+    consumer_secret='XXXXXXXXXXXXXXXXXXXXX',
+    access_token_key='XXXXXXXXXXXXXXXXXXXXX',
+    access_token_secret='XXXXXXXXXXXXXXXXXXXXX')
 
 result = api.VerifyCredentials()
 
