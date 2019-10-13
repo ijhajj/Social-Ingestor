@@ -4,8 +4,8 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-gmail_user = 'i.jhajj@gmail.com'
-gmail_pwd = 'Ip@Tarun2005'
+gmail_user = 'X.XXXX@XXXX.com'
+gmail_pwd = 'XXX@XXXXX'
 to = 'aneya@ilandingvw.com'
 
 def send_email(to, subject, text, html, **kwargs):
